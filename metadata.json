@@ -1,0 +1,7 @@
+{
+  "name": "네오 서울: 기억의 파편 (Neo Seoul: Shards of Memory)",
+  "description": "AI가 실시간으로 생성하는 고품질 이미지와 스토리를 결합한 하이퍼 리얼리스틱 사이버펑크 추리 어드벤처 게임입니다. 당신의 선택이 이야기의 결말을 바꿉니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
